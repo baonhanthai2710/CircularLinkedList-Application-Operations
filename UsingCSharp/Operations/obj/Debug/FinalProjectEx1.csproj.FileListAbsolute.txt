@@ -1,0 +1,14 @@
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\Final Project\FinalProjectEx1\bin\Debug\FinalProjectEx1.exe.config
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\Final Project\FinalProjectEx1\bin\Debug\FinalProjectEx1.exe
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\Final Project\FinalProjectEx1\bin\Debug\FinalProjectEx1.pdb
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\Final Project\FinalProjectEx1\obj\Debug\FinalProjectEx1.csproj.AssemblyReference.cache
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\Final Project\FinalProjectEx1\obj\Debug\FinalProjectEx1.csproj.CoreCompileInputs.cache
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\Final Project\FinalProjectEx1\obj\Debug\FinalProjectEx1.exe
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\Final Project\FinalProjectEx1\obj\Debug\FinalProjectEx1.pdb
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Operations\bin\Debug\FinalProjectEx1.exe.config
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Operations\bin\Debug\FinalProjectEx1.exe
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Operations\bin\Debug\FinalProjectEx1.pdb
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Operations\obj\Debug\FinalProjectEx1.csproj.AssemblyReference.cache
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Operations\obj\Debug\FinalProjectEx1.csproj.CoreCompileInputs.cache
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Operations\obj\Debug\FinalProjectEx1.exe
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Operations\obj\Debug\FinalProjectEx1.pdb

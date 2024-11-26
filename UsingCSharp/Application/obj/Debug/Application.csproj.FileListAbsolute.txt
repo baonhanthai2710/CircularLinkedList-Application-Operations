@@ -1,0 +1,7 @@
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Application\bin\Debug\Application.exe.config
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Application\bin\Debug\Application.exe
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Application\bin\Debug\Application.pdb
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Application\obj\Debug\Application.exe
+D:\ITmajor\IT(Y3-S1)\Data Structure And Algorithm\FinalProjectExercies1\UsingCSharp\Application\obj\Debug\Application.pdb
